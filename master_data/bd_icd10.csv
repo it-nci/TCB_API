@@ -1,0 +1,692 @@
+"ICD10_KEY","ICD10","ICD10_TEXT"
+C00,C00,C00 : Malignant neoplasm of lip malignant neoplasm (เนื้องอกร้ายของริมฝีปาก)
+C00.0,C000,C00.0 : External upper lip malignant neoplasm (External upper lip)
+C00.1,C001,C00.1 : External lower lip malignant neoplasm (External lower lip)
+C00.2,C002,"C00.2 : External lip, unspecified malignant neoplasm (External lip, unspecified)"
+C00.3,C003,"C00.3 : Upper lip, inner aspect malignant neoplasm (Upper lip, inner aspect)"
+C00.4,C004,"C00.4 : Lower lip, inner aspect malignant neoplasm (Lower lip, inner aspect)"
+C00.5,C005,"C00.5 : Lip, unspecified, inner aspect malignant neoplasm (Lip, unspecified, inner aspect)"
+C00.6,C006,C00.6 : Commissure of lip malignant neoplasm (Commissure of lip)
+C00.8,C008,C00.8 : Overlapping lesion of lip malignant neoplasm (Overlapping lesion of lip)
+C00.9,C009,"C00.9 : Lip malignant neoplasm, unspecified (Lip, unspecified)"
+C01,C01,C01 : Malignant neoplasm of base of tongue (เนื้องอกร้ายที่โคนลิ้น)
+C02,C02,C02 : Malignant neoplasm of other and unspecified parts of tongue (เนื้องอกร้ายอื่น และที่มิได้ระบุรายละเอียดของลิ้น)
+C02.0,C020,C02.0 : Dorsal suface of tongue malignant neoplasm (Dorsal surface of tongue)
+C02.1,C021,C02.1 : Border of tongue malignant neoplasm (Border of tongue)
+C02.10,C0210,C02.10 : Tip of tongue
+C02.11,C0211,C02.11 : Lateral border of tongue
+C02.19,C0219,C02.19 : Border of tongue unspecified
+C02.2,C022,C02.2 : Ventral suface of tongue malignant neoplasm (Ventral surface of tongue)
+C02.3,C023,"C02.3 : Anterior two-thirds of tongue, part unspecified malignant neoplasm (Anterior two-thirds of tongue, part unspecified)"
+C02.4,C024,C02.4 : Lingual tonsil malignant neoplasm (Lingual tonsil)
+C02.8,C028,C02.8 : Overlapping lesion of tongue malignant neoplasm (Overlapping lesion of tongue)
+C02.9,C029,"C02.9 : Tongue malignant neoplasm, unspecified (Tongue, unspecified)"
+C03,C03,C03 : Malignant neoplasm of gum (เนื้องอกร้ายที่เหงือก)
+C03.0,C030,C03.0 : Upper gum malignant neoplasm (Upper gum)
+C03.1,C031,C03.1 : Lower gum malignant neoplasm (Lower gum)
+C03.9,C039,"C03.9 : Gum malignant neoplasm, unspecified (Gum, unspecified)"
+C04,C04,C04 : Malignant neoplasm of floor of mouth (เนื้องอกร้ายที่พื้นล่างของปาก)
+C04.0,C040,C04.0 : Anterior floor of mouth malignant neoplasm (Anterior floor of mouth)
+C04.1,C041,C04.1 : Lateral floor of mouth malignant neoplasm (Lateral floor of mouth)
+C04.8,C048,C04.8 : Overlapping lesion of floor of mouth malignant neoplasm (Overlapping lesion of floor of mouth)
+C04.9,C049,"C04.9 : Floor of mouth malignant neoplasm, unspecified (Floor of mouth, unspecified)"
+C05,C05,C05 : Malignant neoplasm of palate (เนื้องอกร้ายของเพดานปาก)
+C05.0,C050,C05.0 : Hard palate malignant neoplasm (Hard palate)
+C05.1,C051,C05.1 : Soft palate malignant neoplasm (Soft palate)
+C05.2,C052,C05.2 : Uvula malignant neoplasm (Uvula)
+C05.8,C058,C05.8 : Overlapping lesion of palate malignant neoplasm (Overlapping lesion of palate)
+C05.9,C059,"C05.9 : Palate malignant neoplasm, unspecified (Palate, unspecified)"
+C06,C06,C06 : Malignat neoplasm of other and unspecified parts of mouth (เนื้องอกร้ายที่อื่นและส่วนที่มิได้ระบุรายละเอียดของปาก)
+C06.0,C060,C06.0 : Cheek mucosa malignant neoplasm (Cheek mucosa)
+C06.1,C061,C06.1 : Vesibule of mouth malignant neoplasm (Vestibule of mouth)
+C06.10,C0610,C06.10 : Upper  labial sulcus
+C06.11,C0611,C06.11 : Upper buccal  sulcus
+C06.12,C0612,C06.12 : Lower labial  sulcus
+C06.13,C0613,C06.13 : Lower buccal  sulcus
+C06.14,C0614,"C06.14 : Upper sulcus, unspecified"
+C06.15,C0615,"C06.15 : Lower sulcus, unspecified"
+C06.19,C0619,"C06.19 : Vestibule of mouth, unspecified"
+C06.2,C062,C06.2 : Retromolar area malignant neoplasm (Retromolar area)
+C06.20,C0620,C06.20 : Maxillary tuberosity
+C06.21,C0621,C06.21 : Mandibular retromolar area
+C06.29,C0629,"C06.29 : Retromolar area, unspecified"
+C06.8,C068,C06.8 : Overlapping lesion of other and unspecified parts of mouth malignant neoplasm (Overlapping lesion of other and unspecified parts of mouth)
+C06.9,C069,"C06.9 : Mouth malignant neoplasm, unspecified (Mouth, unspecified)"
+C07,C07,C07 : Malignant neoplasm of parotid gland (เนื้องอกร้ายที่ต่อมน้ำลายพาโรติด)
+C08,C08,C08 : Malignant neoplasm of other and unspecified major salivary glands
+C08.0,C080,C08.0 : Submandibular gland malignant neoplasm (Submandibular gland)
+C08.1,C081,C08.1 : Sublingual gland malignant neoplasm (Sublingual gland)
+C08.8,C088,C08.8 : Overlapping lesion of major salivary glands malignant neoplasm (Overlapping lesion of major salivary glands)
+C08.9,C089,"C08.9 : Major salivary gland malignant neoplasm, unspecified (Major salivary gland, unspecified)"
+C09,C09,C09 : Malignant neoplasm of tonsil (เนื้องอกร้ายที่ต่อมทอนซิล)
+C09.0,C090,C09.0 : Tonsillar fossa malignant neoplasm (Tonsillar fossa)
+C09.1,C091,C09.1 : Tonsillar pillar (anterior) (posterior) malignant neoplasm (Tonsillar pillar (anterior) (posterior))
+C09.8,C098,C09.8 : Overlapping lesion of tonsil malignant neoplasm (Overlapping lesion of tonsil)
+C09.9,C099,"C09.9 : Tonsil malignant neoplasm, unspecified (Tonsil, unspecified)"
+C10,C10,C10 : Malignant neoplasm of orophaeynx (เนื้องอกร้ายที่ทางร่วมปาก และคอหอย)
+C10.0,C100,C10.0 : Vallecula malignant neoplasm (Vallecula)
+C10.1,C101,C10.1 : Anterior surface of epiglottis malignant neoplasm (Anterior surface of epiglottis)
+C10.2,C102,C10.2 : Lateral wall of oropharynx malignant neoplasm (Lateral wall of oropharynx)
+C10.3,C103,C10.3 : Posterior wall of oropharynx malignant neoplasm (Posterior wall of oropharynx)
+C10.4,C104,C10.4 : Branchial cleft malignant neoplasm (Branchial cleft)
+C10.8,C108,C10.8 : Overlapping lesion of of oropharynx malignant neoplasm (Overlapping lesion of oropharynx)
+C10.9,C109,"C10.9 : Oropharynx malignant neoplasm, unspecified (Oropharynx, unspecified)"
+C11,C11,C11 : Malignant neoplasm of nasopharynx (เนื้องอกร้ายที่หลังโพรงจมูก)
+C11.0,C110,C11.0 : Superior wall of nasopharynx malignant neoplasm (Superior wall of nasopharynx)
+C11.1,C111,C11.1 : Posterior wall of nasopharynx malignant neoplasm (Posterior wall of nasopharynx)
+C11.2,C112,C11.2 : Lateral wall of nasopharynx malignant neoplasm (Lateral wall of nasopharynx)
+C11.3,C113,C11.3 : Anterior wall of nasopharynx malignant neoplasm (Anterior wall of nasopharynx)
+C11.8,C118,C11.8 : Overlapping lesion of nasopharynx malignant neoplasm (Overlapping lesion of nasopharynx)
+C11.9,C119,"C11.9 : Nasopharynx malignant neoplasm, unspecified (Nasopharynx, unspecified)"
+C12,C12,C12 : Malignant neoplasm of pyriform sinus (เนื้องอกร้ายที่โพรงพิริฟอร์ม)
+C12.0,C120,C12.0 : Lateral wall
+C12.1,C121,C12.1 : Medial wall
+C12.2,C122,C12.2 : Apex
+C12.8,C128,C12.8 : Overlapping lesion of pyriform sinus
+C12.9,C129,"C12.9 : Pyriform sinus, unspecified"
+C13,C13,C13 : Malignant neoplasm of hypopharynx (เนื้องอกร้ายที่ใต้คอหอย)
+C13.0,C130,C13.0 : Postcricoid region malignant neoplasm (Postcricoid region)
+C13.1,C131,"C13.1 : Aryepiglottic fold malignant neoplasm, hypopharyngeral aspect (Aryepiglottic fold, hypopharyngeal aspect)"
+C13.2,C132,C13.2 : Posterior wall of hypopharynx malignant neoplasm (Posterior wall of hypopharynx)
+C13.8,C138,C13.8 : Overlapping lesion of hypopharynx malignant neoplasm (Overlapping lesion of hypopharynx)
+C13.9,C139,"C13.9 : Hypopharynx malignant neoplasm, unspecified (Hypopharynx, unspecified)"
+C14,C14,"C14 : Malignant neoplasm of other and ill-defined sites in the lip, oral cavity and pharynx (เนื้องอกร้ายอื่นและตำแหน่งไม่ชัดเจน บริเวณริมฝีปาก ช่องปากและคอหอย)"
+C14.0,C140,"C14.0 : Pharynx malignant neoplasm, unspecified (Pharynx, unspecified)"
+C14.1,C141,C14.1 : Laryngopharynx malignant neoplasm (NULL)
+C14.2,C142,C14.2 : Waldeyer's ring malignant neoplasm (Waldeyer's ring)
+C14.8,C148,"C14.8 : Overlapping lesion of lip, oral cavity and pharynx malignant neoplasm (Overlapping lesion of lip, oral cavity, and pharynx)"
+C15,C15,C15 : Malignant neoplasm of oesophagus (esophagus) (เนื้องอกร้ายที่หลอดอาหาร)
+C15.0,C150,C15.0 : Cervical pats of oesophagus malignant neoplasm (Cervical part of esophagus)
+C15.1,C151,C15.1 : Thoracic pats of oesophagus malignant neoplasm (Thoracic part of esophagus)
+C15.2,C152,C15.2 : Abdominal  pats of oesophagus malignant neoplasm (Abdominal part of esophagus)
+C15.3,C153,C15.3 : Upper third of oesophagus malignant neoplasm (Upper third of esophagus)
+C15.4,C154,C15.4 : Middle third of oesophagus malignant neoplasm (Middle third of esophagus)
+C15.5,C155,C15.5 : Lower third  of oesophagus malignant neoplasm (Lower third of esophagus)
+C15.8,C158,C15.8 : Overlapping lesion  of oesophagus malignant neoplasm (Overlapping lesion of esophagus)
+C15.9,C159,"C15.9 : Oesophagus malignant neoplasm, unspecified (Esophagus, unspecified)"
+C16,C16,C16 : Malignant neoplasm of stomach (เนื้องอกร้ายที่กระเพาะอาหาร)
+C16.0,C160,C16.0 : Cardia malignant neoplasm (Cardia)
+C16.1,C161,C16.1 : Fundus of stomach malignant neoplasm (Fundus of stomach)
+C16.2,C162,C16.2 : Body of stomach malignant neoplasm (Body of stomach)
+C16.3,C163,C16.3 : Pyloric antrum malignant neoplasm (Pyloric antrum)
+C16.4,C164,C16.4 : Pylorus malignant neoplasm (Pylorus)
+C16.5,C165,"C16.5 : Lesser curcature of stomach malignant neoplasm, unspecified (Lesser curvature of stomach, unspecified)"
+C16.6,C166,"C16.6 : Greater curvature of stomach malignant neoplasm, unspecified (Greater curvature of stomach, unspecified)"
+C16.8,C168,C16.8 : Overlapping lesion of stomach malignant neoplasm (Overlapping lesion of stomach)
+C16.9,C169,"C16.9 : Stomach malignant neoplasm, unspecified (Stomach, unspecified)"
+C17,C17,C17 : Malignant neoplasm of small intestine (เนื้องอกร้ายของลำไส้เล็ก)
+C17.0,C170,C17.0 : Duodenum malignant neoplasm (Duodenum)
+C17.1,C171,C17.1 : Jejunum malignant neoplasm (Jejunum)
+C17.2,C172,C17.2 : IIeum malignant neoplasm (Ileum)
+C17.3,C173,C17.3 : Meckel's diverticulum malignant neoplasm (Meckel's diverticulum)
+C17.8,C178,C17.8 : Overlapping lesion of small intestine malignant neoplasm (Overlapping lesion of small intestine)
+C17.9,C179,"C17.9 : Small intestine malignant neoplasm, unspecified (Small intestine, unspecified)"
+C18,C18,C18 : Malignant neoplasm of colon (เนื้องอกร้ายของลำไส้ใหญ่)
+C18.0,C180,C18.0 : Caecum malignant neoplasm (Cecum)
+C18.1,C181,C18.1 : Appendix malignant neoplasm (Appendix)
+C18.2,C182,C18.2 : Ascending colon malignant neoplasm (Ascending colon)
+C18.3,C183,C18.3 : Hepatic flexure malignant neoplasm (Hepatic flexure)
+C18.4,C184,C18.4 : Transverse colon malignant neoplasm (Transverse colon)
+C18.5,C185,C18.5 : Splenic flexure malignant neoplasm (Splenic flexure)
+C18.6,C186,C18.6 : Descending colon malignant neoplasm (Descending colon)
+C18.7,C187,C18.7 : Sigmoid colon malignant neoplasm (Sigmoid colon)
+C18.8,C188,C18.8 : Overlapping lesion of colon malignant neoplasm (Overlapping lesion of colon)
+C18.9,C189,"C18.9 : Colon malignant neoplasm, unspecified (Colon, unspecified)"
+C19,C19,C19 : Malignant neoplasm of rectosigmoid junction (เนื้องอกร้ายที่รอยต่อลำไส้ใหญ่เร็คตัมและซิกมอยด์)
+C20,C20,C20 : Malignant neoplasm of rectum (เนื้องอกร้ายที่ลำไส้ใหญ่ส่วนตรง (เร็คตัม))
+C21,C21,C21 : Malignant neoplasm of anus and anal canal (เนื้องอกร้ายที่ทวารหนักและช่องทวารหนัก)
+C21.0,C210,"C21.0 : Anus malignant neoplasm, unspecified (Anus, unspecified)"
+C21.1,C211,C21.1 : Anal canal malignant neoplasm (Anal canal)
+C21.2,C212,C21.2 : Cloacogenic zone malignant neoplasm (Cloacogenic zone)
+C21.8,C218,"C21.8 : Overlapping lesion of rectum, anus and anal canal malignant neoplasm (Overlapping lesion of rectum, anus, and anal canal)"
+C22,C22,C22 : Malignant neoplasm of liver and intranhepatic bile ducts (เนื้องอกร้ายที่ตับและท่อน้ำดีในตับ)
+C22.0,C220,C22.0 : Liver cell carcinoma
+C22.1,C221,C22.1 : Intrahepatic bile duct carcinoma
+C22.2,C222,C22.2 : Hepatoblastoma
+C22.3,C223,C22.3 : Angiosarcoma of liver
+C22.4,C224,C22.4 : Other sarcomas of liver
+C22.7,C227,C22.7 : Other specified carcinomas of liver
+C22.9,C229,"C22.9 : Liver malignant neoplasm, unspecified (Liver, unspecified)"
+C23,C23,C23 : Malignant neoplasm of gallbladder (เนื้องอกร้ายที่ถุงน้ำดี)
+C24,C24,C24 : Malignant neoplasm of other and unspecified parts of biliary tract (เนื้องอกร้ายที่อื่นและที่มิได้ระบุรายละเอียดของระบบท่อน้ำดีในตับ)
+C24.0,C240,C24.0 : Extrahepatic bile duct malignant neoplasm (Extrahepatic bile duct)
+C24.1,C241,C24.1 : Ampulla of Vater malignant neoplasm (Ampulla of Vater)
+C24.8,C248,C24.8 : Overlapping lesion of biliary tract malignant neoplasm (Overlapping lesion of biliary tract)
+C24.9,C249,"C24.9 : Biliary tract malignant neoplasm, unspecified (Biliary tract, unspecified)"
+C25,C25,C25 : Malignant neoplasm of pancreas (เนื้องอกร้ายที่ตับอ่อน)
+C25.0,C250,C25.0 : Head of  pancreas malignant neoplasm (Head of pancreas)
+C25.1,C251,C25.1 : Body of  pancreas malignant neoplasm (Body of pancreas)
+C25.2,C252,C25.2 : Tail of  pancreas malignant neoplasm (Tail of pancreas)
+C25.3,C253,C25.3 : Pancreatic duct malignant neoplasm (Pancreatic duct)
+C25.4,C254,C25.4 : Endocrine  pancreas malignant neoplasm (Endocrine pancreas)
+C25.7,C257,C25.7 : Other parts of  pancreas malignant neoplasm (Other parts of pancreas)
+C25.8,C258,C25.8 : Overlapping lesion of  pancreas malignant neoplasm (Overlapping lesion of pancreas)
+C25.9,C259,"C25.9 : Pancreas malignant neoplasm, unspecified (Pancreas, unspecified)"
+C26,C26,C26 : Malignant neoplasm of other and ill-defined digestive organs (เนื้องอกร้ายที่อวัยวะย่อยอาหารอื่นและที่ระบุไม่ชัดเจน)
+C26.0,C260,"C26.0 : Intesinal tract malignant neoplasm, part unspecified (Intestinal tract, part unspecified)"
+C26.1,C261,C26.1 : Spleen malignant neoplasm (Spleen)
+C26.8,C268,C26.8 : Overlapping lesion of digestive system malignant neoplasm (Overlapping lesion of digestive system)
+C26.9,C269,C26.9 : III-defined sites within the digestive system malignant neoplasm (Ill-defined sites within the digestive system)
+C30,C30,C30 : Malignant neoplasm of nasal cavity and middle ear (เนื้องอกร้ายที่ช่องจมูกและช่องหูชั้นกลาง)
+C30.0,C300,C30.0 : Nasal cavity malignant neoplasm (Nasal cavity)
+C30.1,C301,C30.1 : Middle ear malignant neoplasm (Middle ear)
+C31,C31,C31 : Malignant neoplasm of accessory sinuses (เนื้องอกร้ายของโพรงอากาศย่อย)
+C31.0,C310,C31.0 : Maxillary sinus
+C31.1,C311,C31.1 : Maxillary sinus malignant neoplasm (Maxillary  sinus)
+C31.2,C312,C31.2 : Ethmoidal sinus malignant neoplasm (Ethmoid  sinus)
+C31.3,C313,C31.3 : Frontal sinus malignant neoplasm (Frontal sinus)
+C31.8,C318,C31.8 : Overlapping lesion of accessory sinuses malignant neoplasm (Overlapping lesion of accessory sinuses)
+C31.9,C319,"C31.9 : Accessory sinus malignant neoplasm, unspecified (Accessory sinus, unspecified)"
+C32,C32,C32 : Malignant neoplasm of larynx (เนื้องอกร้ายที่กล่องเสียง)
+C32.0,C320,C32.0 : Glottis malignant neoplasm
+C32.1,C321,C32.1 : Supraglottis malignant neoplasm
+C32.2,C322,C32.2 : Subglottis malignant neoplasm
+C32.3,C323,C32.3 : Laryngeal cartilage malignant neoplasm
+C32.8,C328,C32.8 : Overalapping lesion of larynx malignant neoplasm (Overlapping lesion of larynx malignant neoplasm)
+C32.9,C329,"C32.9 : Larynx malignant neoplasm, unspecified"
+C33,C33,C33 : Malignant neoplasm of trachea (เนื้องอกร้ายของหลอดคอ (แทรเคีย))
+C34,C34,C34 : Malignant neoplasm of bronchus and lung (เนื้องอกร้ายของหลอดลมและปอด)
+C34.0,C340,C34.0 : Main bronchus malignant neoplasm (Main bronchus)
+C34.1,C341,"C34.1 : Upper lobe,  bronchus and lung malignant neoplasm (Upper lobe, bronchus or lung)"
+C34.2,C342,"C34.2 : Middle lobe,  bronchus and lung malignant neoplasm (Middle lobe, bronchus or lung)"
+C34.3,C343,"C34.3 : Lower lobe, bronchus and lung malignant neoplasm (Lower lobe, bronchus or lung)"
+C34.8,C348,C34.8 : Overlapping lesion of  bronchus and lung malignant neoplasm (Overlapping lesion of bronchus and lung)
+C34.9,C349,"C34.9 : Bronchus or lung malignant neoplasm, unspecified (Bronchus or lung, unspecified)"
+C37,C37,C37 : Malignant neoplasm of thymus (เนื้องอกร้ายของต่อมธัยมัส)
+C38,C38,"C38 : Malignant neoplasm of heart, mediastinum and pleura (เนื้องอกร้ายของหัวใจ ช่องอก และเยื่อหุ้มปอด)"
+C38.0,C380,C38.0 : Heart malignant neoplasm (Heart)
+C38.1,C381,C38.1 : Anterior mediastinum malignant neoplasm (Anterior mediastinum)
+C38.2,C382,C38.2 : Posterior mediastinum malignant neoplasm (Posterior mediastinum)
+C38.3,C383,"C38.3 : Mediastinum malignant neoplasm, part unspecified (Mediastinum, part unspecified)"
+C38.4,C384,C38.4 : Pleura malignant neoplasm (Pleura)
+C38.8,C388,"C38.8 : Overlapping lesion of heart, mediastinum and pleura malignant neoplasm (Overlapping lesion of heart, mediastinum, and pleura)"
+C39,C39,C39 : Malignant neoplasm of other and ill-defined sites in the respiratory system and intrathoracic organs (เนื้องอกร้ายที่อื่นและตำแหน่งไม่ชัดเจนในระบบหายใจ และอวัยวะในช่องอก)
+C39.0,C390,"C39.0 : Upper respiratory tract malignant neoplasm, part unspecified (Upper respiratory tract, part unspecified)"
+C39.8,C398,C39.8 : Overlapping lesion of respiratory and intrathoracic organs malignant neoplasm (Overlapping lesion of respiratory and intrathoracic organs)
+C39.9,C399,C39.9 : III-defined sites within the respiratory system malignant neoplasm (Ill-defined sites within the respiratory system)
+C40,C40,C40 : Malignant neoplasm of bone and articular cartilage of limbs (เนื้องอกร้ายของกระดูกและกระดูกอ่อนผิวข้อของแขนขา)
+C40.0,C400,C40.0 : Scapula and long bones of upper limb malignant neoplasm (Scapula and long bones of upper limb)
+C40.1,C401,C40.1 : Short bones of upper limb malignant neoplasm (Short bones of upper limb)
+C40.2,C402,C40.2 : Long bones of lower limb malignant neoplasm (Long bones of lower limb)
+C40.3,C403,C40.3 : Short bones of lower lomb malignant neoplasm (Short bones of lower limb)
+C40.8,C408,C40.8 : Overlapping lesion of bone and articular cartilage of limbs malignant neoplasm (Overlapping lesion of bone and articular cartilage of limbs)
+C40.9,C409,"C40.9 : Bone and articular cartilage of limb malignant neoplasm, unspecified (Bone and articular cartilage of limb, unspecified)"
+C41,C41,C41 : Malignant neoplasm of bone and and articular cartilage of other and unspecified sites (เนื้องอกร้ายของกระดูกและกระดูกอ่อนผิวข้ออื่นและที่มิได้ระบุรายละเอียด)
+C41.0,C410,C41.0 : Bones of skull and face malignant neoplasm (Bones of skull and face)
+C41.00,C4100,"C41.00 : Maxilla, sarcoma"
+C41.01,C4101,"C41.01 : Maxilla, malignant odontogenic tumour"
+C41.02,C4102,"C41.02 : Maxilla, malignant intraosseous salivary gland tumour"
+C41.08,C4108,C41.08 : Other bone of skull and face
+C41.09,C4109,"C41.09 : Bone of skull and face, unspecified"
+C41.1,C411,C41.1 : Mandible malignant neoplasm (Mandible)
+C41.10,C4110,C41.10 : Mandible malignant sarcoma (Sarcoma)
+C41.11,C4111,C41.11 : Malignant odontogenic tumour
+C41.19,C4119,"C41.19 : Mandible, unspecified"
+C41.2,C412,C41.2 : Vertebral column malignant neoplasm (Vertebral column)
+C41.3,C413,"C41.3 : Ribs, sternum and clavicle malignant neoplasm (Ribs, sternum, and clavicle)"
+C41.4,C414,"C41.4 : Pelvic bones, sacrum and coccyx malignant neoplasm (Pelvic bones, sacrum, and coccyx)"
+C41.8,C418,C41.8 : Overlapping lesion of bone and articular cartilage malignant neoplasm (Overlapping lesion of bone and articular cartilage)
+C41.9,C419,"C41.9 : Bone and articular cartilage malignant neoplasm, unspecified (Bone and articular cartilage, unspecified)"
+C43,C43,C43 : Malignant melanoma of skin (เนื้องอกร้ายเมลาโนมาของผิวหนัง)
+C43.0,C430,"C43.0 : Lip ,Malignant melanoma (Malignant melanoma of lip)"
+C43.1,C431,"C43.1 : Eyelid, Malignant melanoma (Malignant melanoma of eyelid, including canthus)"
+C43.2,C432,"C43.2 : Ear and external auricular cannal ,Malignant melanoma (Malignant melanoma of ear and external auricular canal)"
+C43.3,C433,"C43.3 : Face, Malignant melanoma (Malignant melanoma of other and unspecified parts of face)"
+C43.4,C434,"C43.4 : scalp, neck, Malignant melanoma (Malignant melanoma of scalp and neck)"
+C43.5,C435,"C43.5 : trunk, Malignant melanoma (Malignant melanoma of trunk)"
+C43.6,C436,"C43.6 : Limb upper, shoulder ,Malignant melanoma (Malignant melanoma of upper limb, including shoulder)"
+C43.7,C437,"C43.7 : limb lower, hip, Malignant melanoma (Malignant melanoma of lower limb, including hip)"
+C43.8,C438,C43.8 : Overlapping malignant melanoma of skin
+C43.9,C439,"C43.9 : Malignant melanoma (Malignant melanoma of skin, unspecified)"
+C44,C44,C44 : Other malignant neoplasms of skin (เนื้องอกร้ายอื่นของผิวหนัง)
+C44.0,C440,C44.0 : Skin of lip malignant neoplasm (Skin of lip)
+C44.01,C4401,"C44.01 : Lip, Basal cell epithelioma, Basal cell carcinoma ()"
+C44.02,C4402,"C44.02 : Lip, Squamous cell carcinoma ()"
+C44.1,C441,"C44.1 : Skin of eyelid, including canthus malignant neoplasm (Skin of eyelid, including canthus)"
+C44.11,C4411,"C44.11 : eyelid, including canthus, Basal cell epithelioma, Basal cell carcinoma ()"
+C44.12,C4412,"C44.12 : Eyelid, including canthus, Squamous cell carcinoma ()"
+C44.2,C442,C44.2 : Skin of ear and external auricular canal malignant neoplasm (Skin of ear and external auricular canal)
+C44.21,C4421,"C44.21 : Ear and extermal auricular canal, Basal cell epithelioma, Basal cell carcinoma ()"
+C44.22,C4422,"C44.22 : Ear and external auricular canal, Squamous cell carcinoma ()"
+C44.3,C443,C44.3 : Skin of other and unspecified parts of face malignant neoplasm (Skin of other and unspecified parts of face)
+C44.31,C4431,"C44.31 : Face,Basal cell epithelioma, Basal cell carcinoma ()"
+C44.32,C4432,C44.32 : Face Squamous cell carcinoma of skin ()
+C44.4,C444,C44.4 : Skin of scalp and neck malignant neoplasm (Skin of scalp and neck)
+C44.41,C4441,"C44.41 : scalp and neck, Basal cell epithelioma, Basal cell carcinoma ()"
+C44.42,C4442,"C44.42 : scalp and neck,Squamous cell carcinoma of skin ()"
+C44.5,C445,C44.5 : Skin of trunk malignant neoplasm (Skin of trunk)
+C44.51,C4451,"C44.51 : trunk, Basal cell epithelioma, Basal cell carcinoma ()"
+C44.52,C4452,"C44.52 : trunk, Squamous cell carcinoma of skin ()"
+C44.6,C446,"C44.6 : Skin of upper limb, including shoulder malignant neoplasm (Skin of upper limb, including shoulder)"
+C44.61,C4461,"C44.61 : Limb upper, including shoulder, Basal cell epithelioma, Basal cell carcinoma ()"
+C44.62,C4462,"C44.62 : Limb upper, including shoulder, Squamous cell carcinoma of skin ()"
+C44.7,C447,"C44.7 : Skin of lower limb, including hip malignant neoplasm (Skin of lower limb, including hip)"
+C44.71,C4471,"C44.71 : Basal cell epithelioma, Basal cell carcinoma of lower limb, including hip ()"
+C44.72,C4472,"C44.72 : Limb lower, including hipSquamous cell carcinoma of skin ()"
+C44.8,C448,C44.8 : Overlapping lesion of skin malignant neoplasm (Overlapping lesion of skin)
+C44.81,C4481,"C44.81 : Basal cell epithelioma , Basal cell carcinoma of skin ()"
+C44.82,C4482,C44.82 : Squamous cell carcinoma of skin ()
+C44.9,C449,"C44.9 : Basal cell epithelioma, Basal cell carcinoma unspecified (Malignant neoplasm of skin, unspecified)"
+C44.91,C4491,"C44.91 : Basal cell epithelioma , Basal cell carcinoma of skin , unspecified ()"
+C44.92,C4492,"C44.92 : Squamous cell carcinoma of skin , unspecified ()"
+C45,C45,C45 : Mesothelioma (เมโสธีลิโอมา)
+C45.0,C450,C45.0 : Mesothelioma of pleura
+C45.1,C451,C45.1 : Mesothelioma of peritoneum
+C45.2,C452,C45.2 : Mesothelioma of pericardium
+C45.7,C457,C45.7 : Mesothelioma of other sites
+C45.9,C459,"C45.9 : Mesothelioma, unspecified"
+C46,C46,C46 : Kaposi's sarcoma (คาโปซี ซาร์โคมา)
+C46.0,C460,C46.0 : Kaposi's sarcoma of skin
+C46.1,C461,C46.1 : Kaposi's sarcoma of soft tissue
+C46.2,C462,C46.2 : Kaposi's sarcoma of palate
+C46.3,C463,C46.3 : Kaposi's sarcoma of lymph nodes
+C46.7,C467,C46.7 : Kaposi's sarcoma of other sites
+C46.8,C468,C46.8 : Kaposi's sarcoma of multiple organs
+C46.9,C469,"C46.9 : Kaposi's sarcoma, unspecified"
+C47,C47,C47 : Malignant neoplasm of peripheral nerves and autonomic nervous system (เนื้องอกร้ายที่เส้นประสาทส่วนปลายและระบบประสาทอัตโนมัติ)
+C47.0,C470,"C47.0 : Peripheral nerves of head, face and neck malignant neoplasm (Peripheral nerves of head, face, and neck)"
+C47.1,C471,"C47.1 : Peripheral nerves of upper limb,  including shoulder malignant neoplasm (Peripheral nerves of upper limb, including shoulder)"
+C47.2,C472,"C47.2 : Peripheral nerves of of lower limb, inculiding hip malignant neoplasm (Peripheral nerves of lower limb, including hip)"
+C47.3,C473,C47.3 : Peripheral nerves of of thorax malignant neoplasm (Peripheral nerves of thorax)
+C47.4,C474,C47.4 : Peripheral nerves of of abdomen malignant neoplasm (Peripheral nerves of abdomen)
+C47.5,C475,C47.5 : Peripheral nerves of pelvis malignant neoplasm (Peripheral nerves of pelvis)
+C47.6,C476,"C47.6 : Peripheral nerves of trunk malignant neoplasm, unspecified (Peripheral nerves of trunk, unspecified)"
+C47.8,C478,C47.8 : Overlapping lesion of peripheral nerves and autonomic nervous system malignant neopl (Overlapping lesion of peripheral nerves and autonomic nervous system)
+C47.9,C479,"C47.9 : Peripheral nerves and autonomic nervous system malignant neoplasm, unspecified (Peripheral nerves and autonomic nervous system, unspecified)"
+C48,C48,C48 : Malignant neoplasm of retroperitoneum and peritoneum (เนื้องอกร้ายของเยื่อบุช่องท้องและหลังเยื่อบุช่องท้อง)
+C48.0,C480,C48.0 : Retroperitoneum malignant neoplasm (Retroperitoneum)
+C48.1,C481,C48.1 : Specified parts of peritoneum malignant neoplasm (Specified parts of peritoneum)
+C48.2,C482,"C48.2 : Peritoneum malignant neoplasm, unspecified (Peritoneum, unspecified)"
+C48.8,C488,C48.8 : Overlapping lesion of retroperitoneum and peritoneum malignant neoplasm (Overlapping lesion of retroperitoneum and peritoneum)
+C49,C49,C49 : Malignant neoplasm of other connective and soft tissue (เนื้องอกร้ายของเนื้อเยื่อเกี่ยวพันและเนื้อเยื่ออ่อนอื่น)
+C49.0,C490,"C49.0 : Connective and soft tissue of head, face and neck malignant neoplasm (Connective and soft tissue of head, face, and neck)"
+C49.1,C491,"C49.1 : Connective and soft tissue of upper limb, including shoulder malignant neoplasm (Connective and soft tissue of upper limb, including shoulder)"
+C49.2,C492,"C49.2 : Connective and soft tissue of lower limb, including hip malignant neoplasm (Connective and soft tissue of lower limb, including hip)"
+C49.3,C493,C49.3 : Connective and soft tissue of thorax malignant neoplasm (Connective and soft tissue of thorax)
+C49.4,C494,C49.4 : Connective and soft tissue of abdomen malignant neoplasm (Connective and soft tissue of abdomen)
+C49.5,C495,C49.5 : Connective and soft tissue of pelvis malignant neoplasm (Connective and soft tissue of pelvis)
+C49.6,C496,"C49.6 : Connective and soft tissue of trunk malignant neoplasm, unspecified (Connective and soft tissue of trunk, unspecified)"
+C49.8,C498,C49.8 : Overlapping lesion of connective and soft tissue malignant neoplasm (Overlapping lesion of connective and soft tissue)
+C49.9,C499,"C49.9 : Connective and soft tissue malignant neoplasm, unspecified (Connective and soft tissue, unspecified)"
+C50,C50,C50 : Malignant neoplasm of breast (เนื้องอกร้ายของเต้านม)
+C50.0,C500,C50.0 : Nipple and areola malignant neoplasm (Nipple and areola)
+C50.1,C501,C50.1 : Central portion of breast malignant neoplasm (Central portion of breast)
+C50.2,C502,C50.2 : Upper-inner quadrant of breast malignant neoplasm (Upper-inner quadrant of breast)
+C50.3,C503,C50.3 : Lower-inner quadrant of breast malignant neoplasm (Lower-inner quadrant of breast)
+C50.4,C504,C50.4 : Upper-outer quadrant of breast malignant neoplasm (Upper-outer quadrant of breast)
+C50.5,C505,C50.5 : Lower-outer quadrant of breast malignant neoplasm (Lower-outer quadrant of breast)
+C50.6,C506,C50.6 : Axillary tail of breast malignant neoplasm (Axillary tail of breast)
+C50.8,C508,C50.8 : Overlapping lesion of breast malignant neoplasm (Overlapping lesion of breast)
+C50.9,C509,"C50.9 : Breast malignant neoplasm, unspecified (Breast, unspecified)"
+C51,C51,C51 : Malignant neoplasm of vulva (เนื้องอกร้ายที่ปากช่องคลอด)
+C51.0,C510,C51.0 : Labium majus malignant neoplasm (Labium majus)
+C51.1,C511,C51.1 : Labium minus malignant neoplasm (Labium minus)
+C51.2,C512,C51.2 : Clitoris malignant neoplasm (Clitoris)
+C51.8,C518,C51.8 : Overlapping lesion of vulva malignant neoplasm (Overlapping lesion of vulva)
+C51.9,C519,"C51.9 : Vulva malignant neoplasm, unspecified (Vulva, unspecified)"
+C52,C52,C52 : Malignant neoplasm of vagina (เนื้องอกร้ายที่ช่องคลอด)
+C53,C53,C53 : Malignant neoplasm of cervix uteri (เนื้องอกร้ายที่ปากมดลูก)
+C53.0,C530,C53.0 : Endocervix malignant neoplasm (Endocervix)
+C53.1,C531,C53.1 : Exocervix malignant neoplasm (Exocervix)
+C53.8,C538,C53.8 : Overlapping lesion of cervix uteri malignant neoplasm (Overlapping lesion of cervix uteri)
+C53.9,C539,"C53.9 : Cervix uteri malignant neoplasm, unspecified (Cervix uteri, unspecified)"
+C54,C54,C54 : Malignant neoplasm of corpus uteri (เนื้องอกร้ายที่ตัวมดลูก)
+C54.0,C540,C54.0 : Isthmus uteri malignant neoplasm (Isthmus uteri)
+C54.1,C541,C54.1 : Endometrium malignant neoplasm (Endometrium)
+C54.2,C542,C54.2 : Myometrium malignant neoplasm (Myometrium)
+C54.3,C543,C54.3 : Fundus uteri malignant neoplasm (Fundus uteri)
+C54.8,C548,C54.8 : Overlapping lesion of corpus uteri
+C54.9,C549,"C54.9 : Corpus uteri malignant neoplasm, unspecified (Corpus uteri, unspecified)"
+C55,C55,"C55 : Malignant neoplasm of uterus, part unspecified (เนื้องอกร้ายที่มดลูกที่มิได้ระบุส่วนที่เป็น)"
+C56,C56,C56 : Malignant neoplasm of ovary (เนื้องอกร้ายที่รังไข่)
+C57,C57,C57 : Malignant neoplasm of other and unspecified female genital organs (เนื้องอกร้ายของอวัยวะสืบพันธุ์หญิงส่วนอื่น และที่มิได้ระบุรายละเอียด)
+C57.0,C570,C57.0 : Fallopian tube malignant neoplasm (Fallopian tube)
+C57.1,C571,C57.1 : Broad ligament malignant neoplasm (Broad ligament)
+C57.2,C572,C57.2 : Round ligament malignant neoplasm (Round ligament)
+C57.3,C573,C57.3 : Parametrium malignant neoplasm (Parametrium)
+C57.4,C574,"C57.4 : Uterine adnexa malignant neoplasm, unspecified (Uterine adnexa, unspecified)"
+C57.7,C577,C57.7 : Other specified female genital organs malignant neoplasm (Other specified female genital organs)
+C57.8,C578,C57.8 : Overlapping lesion of female genital organs malignant neoplasm (Overlapping lesion of female genital organs)
+C57.9,C579,"C57.9 : Female genital organ malignant neoplasm, unspecified (Female genital organ, unspecified)"
+C58,C58,C58 : Malignant neoplasm of placenta (เนื้องอกร้ายที่รก)
+C60,C60,C60 : Malignant neoplasm of penis (เนื้องอกร้ายที่องคชาต)
+C60.0,C600,C60.0 : Prepuce malignant neoplasm (Prepuce)
+C60.1,C601,C60.1 : Glans penis malignant neoplasm (Glans penis)
+C60.2,C602,C60.2 : Body of penis malignant neoplasm (Body of penis)
+C60.8,C608,C60.8 : Overlapping lesion of penis malignant neoplasm (Overlapping lesion of penis)
+C60.9,C609,"C60.9 : Penis malignant neoplasm, unspecified (Penis, unspecified)"
+C61,C61,C61 : Malignant neoplasm of prostate (เนื้องอกร้ายที่ต่อมลูกหมาก)
+C62,C62,C62 : Malignant neoplasm of testis (เนื้องอกร้ายที่ลูกอัณฑะ)
+C62.0,C620,C62.0 : Undescended testis malignant neoplasm (Undescended testis)
+C62.1,C621,C62.1 : Descended testis malignant neoplasm (Descended testis)
+C62.9,C629,"C62.9 : Testis malignant neoplasm, unspecified (Testis, unspecified)"
+C63,C63,C63 : Malignant neoplasm of other and unspecified male genitial organs (เนื้องอกร้ายที่อวัยวะเพศชายอื่นๆ และที่มิได้ระบุรายละเอียด)
+C63.0,C630,C63.0 : Epididymis malignant neoplasm (Epididymis)
+C63.1,C631,C63.1 : Spermatic cord malignant neoplasm (Spermatic cord)
+C63.2,C632,C63.2 : Scrotum malignant neoplasm (Scrotum)
+C63.7,C637,C63.7 : Other specified male genital organs
+C63.8,C638,C63.8 : Overalapping lesion of male genial organs (Overlapping lesion of male genital organs)
+C63.9,C639,"C63.9 : Male genital organ malignant neoplasm, unspecified (Male genital organ, unspecified)"
+C64,C64,"C64 : Malignant neoplasm of kidney, except renal pelvis (เนื้องอกร้ายที่ไต ยกเว้นกรวยไต)"
+C65,C65,C65 : Malignant neoplasm of renal pelvis (เนื้องอกร้ายที่กรวยไต)
+C66,C66,C66 : Malignant neoplasm of ureter (เนื้องอกร้ายที่ท่อไต)
+C67,C67,C67 : Malignant neoplasm of bladder (เนื้องอกร้ายที่กระเพาะปัสสาวะ)
+C67.0,C670,C67.0 : Trigone of bladder malignant neoplasm (Trigone of bladder)
+C67.1,C671,C67.1 : Dome of bladder malignant neoplasm (Dome of bladder)
+C67.2,C672,C67.2 : Lateral wall of bladder malignant neoplasm (Lateral wall of bladder)
+C67.3,C673,C67.3 : Anterior wall of bladder malignant neoplasm (Anterior wall of bladder)
+C67.4,C674,C67.4 : Posterior wall of bladder malignant neoplasm (Posterior wall of bladder)
+C67.5,C675,C67.5 : Bladder neck malignant neoplasm (Bladder neck)
+C67.6,C676,C67.6 : Ureteric orifice malignant neoplasm (Ureteric orifice)
+C67.7,C677,C67.7 : Urachus malignant neoplasm (Urachus)
+C67.8,C678,C67.8 : Overlapping lesion of bladder malignant neoplasm (Overlapping lesion of bladder)
+C67.9,C679,"C67.9 : Bladder malignant neoplasm, unspecified (Bladder, unspecified)"
+C68,C68,C68 : Malignant neoplasm of other and unspecified urinary organs (เนื้องอกร้ายของอวัยวะอื่นในระบบปัสสาวะอื่นและที่มิได้ระบุรายละเอียด)
+C68.0,C680,C68.0 : Urethra malignant neoplasm (Urethra)
+C68.1,C681,C68.1 : Paraurethral gland malignant neoplasm (Paraurethral glands)
+C68.8,C688,C68.8 : Overlapping lesion of urinary organs malignant neoplasm (Overlapping lesion of urinary organs)
+C68.9,C689,"C68.9 : Urinary organ malignant neoplasm,unspecified (Urinary organ, unspecified)"
+C69,C69,C69 : Malignant neoplasm of eye and adnexa (เนื้องอกร้ายของตาและส่วนประกอบ)
+C69.0,C690,C69.0 : Conjunctiva malignant neoplasm (Conjunctiva)
+C69.1,C691,C69.1 : Cornea malignant neoplasm (Cornea)
+C69.2,C692,C69.2 : Retina malignant neoplasm (Retina)
+C69.3,C693,C69.3 : Choroid malignant neoplasm (Choroid)
+C69.4,C694,C69.4 : Ciliary body malignant neoplasm (Ciliary body)
+C69.5,C695,C69.5 : Lacrimal gland and duct malignant neoplasm (Lacrimal gland and duct)
+C69.6,C696,C69.6 : Orbit malignant neoplasm (Orbit)
+C69.8,C698,C69.8 : Overalapping lesion of eye and adnexa malignant neoplasm (Overlapping lesion of eye and adnexa)
+C69.9,C699,"C69.9 : Eye malignant neoplasm, unspecified (Eye, unspecified)"
+C70,C70,C70 : Malignant neoplasm of meninges (เนื้องอกร้ายของเยื่อหุ้มสมอง)
+C70.0,C700,C70.0 : Cerebral meninges malignant neoplasm (Cerebral meninges)
+C70.1,C701,C70.1 : Spinal meninges malignant neoplasm (Spinal meninges)
+C70.9,C709,"C70.9 : Meninges malignant neoplasm, unspecified (Meninges, unspecified)"
+C71,C71,C71 : Malignant neoplasm of brain (เนื้องอกร้ายของสมอง)
+C71.0,C710,"C71.0 : Cerebrum malignant neoplasm, except lobes and ventricles (Cerebrum, except lobes and ventricles)"
+C71.1,C711,C71.1 : Frontal lobe malignant neoplasm (Frontal lobe)
+C71.2,C712,C71.2 : Temporal lobe malignant neoplasm (Temporal lobe)
+C71.3,C713,C71.3 : Parietal lobe malignant neoplasm (Parietal lobe)
+C71.4,C714,C71.4 : Occipital lobe malignant neoplasm (Occipital lobe)
+C71.5,C715,C71.5 : Cerebral ventricle malignant neoplasm (Cerebral ventricle)
+C71.6,C716,C71.6 : Cerebellum malignant neoplasm (Cerebellum)
+C71.7,C717,C71.7 : Brain stem malignant neoplasm (Brain stem)
+C71.8,C718,C71.8 : Overlapping lesion of brain malignant neoplasm (Overlapping lesion of brain)
+C71.9,C719,"C71.9 : Brain malignant neoplasm, unspecified (Brain, unspecified)"
+C72,C72,"C72 : Malignant neoplasm of spinal cord, cranial nerves and other parts of central nervous system (เนื้องอกร้ายของประสาทไขสันหลัง ประสาทสมองและส่วนอื่นของระบบ)"
+C72.0,C720,C72.0 : Spinal cord malignant neoplasm (Spinal cord)
+C72.1,C721,C72.1 : Cauda equina malignant neoplasm (Cauda equina)
+C72.2,C722,C72.2 : Olfactory nerve malignant neoplasm (Olfactory nerve)
+C72.3,C723,C72.3 : Optic nerve malignant neoplasm (Optic nerve)
+C72.4,C724,C72.4 : Acoustic nerve malignant neoplasm (Acoustic nerve)
+C72.5,C725,C72.5 : Other and unspecified cranial nerves malignant neoplasm (Other and unspecified cranial nerves)
+C72.8,C728,C72.8 : Overlapping lesion of brain and other parts of central nevous system (Overlapping lesion of brain and other parts of central nervous system)
+C72.9,C729,"C72.9 : Central nevous system malignant neoplasm, unspecified (Central nervous system, unspecified)"
+C73,C73,C73 : Malignant neoplasm of thyroid gland (เนื้องอกร้ายของต่อมธัยรอยด์)
+C74,C74,C74 : Malignant neoplasm of adrenal gland (เนื้องอกร้ายของต่อมหมวกไต)
+C74.0,C740,C74.0 : Cortex of adrenal gland malignant neoplasm (Cortex of adrenal gland)
+C74.1,C741,C74.1 : Medulla of adrenal gland malignant neoplasm (Medulla of adrenal gland)
+C74.9,C749,"C74.9 : Adrenal gland malignant neoplasm, unspecified (Adrenal gland, unspecified)"
+C75,C75,C75 : Malignant neoplasm of other endocrine glands and related structures (เนื้องอกร้ายของต่อมไร้ท่ออื่นและอวัยวะที่เกี่ยวข้อง)
+C75.0,C750,C75.0 : Parathyroid gland malignant neoplasm (Parathyroid gland)
+C75.1,C751,C75.1 : Pitutary gland malignant neoplasm (Pituitary gland)
+C75.2,C752,C75.2 : Craniopharyngral duct malignant neoplasm (Craniopharyngeal duct)
+C75.3,C753,C75.3 : Pineal gland malignant neoplasm (Pineal gland)
+C75.4,C754,C75.4 : Carotid body malignant neoplasm (Carotid body)
+C75.5,C755,C75.5 : Aortic body and other paraganglia malignant neoplasm (Aortic body and other paraganglia)
+C75.8,C758,"C75.8 : Pluriglandular  involvement,malignant meoplasm unspecified (Pluriglandular involvement, unspecified)"
+C75.9,C759,"C75.9 : Endocrine gland malignant neoplasm, unspecified (Endocrine gland, unspecified)"
+C76,C76,C76 : Malignant neoplasm of other and iII-defined sites (เนื้องอกร้ายบริเวณอื่นและที่ระบุตำแหน่งไม่ชัดเจน)
+C76.0,C760,"C76.0 : Head, face and neck malignant neoplasm (Head, face, and neck)"
+C76.1,C761,C76.1 : Thorax malignant neoplasm (Thorax)
+C76.2,C762,C76.2 : Abdomen malignant neoplasm (Abdomen)
+C76.3,C763,C76.3 : Pelvis malignant neoplasm (Pelvis)
+C76.4,C764,C76.4 : Upper limb malignant neoplasm (Upper limb)
+C76.5,C765,C76.5 : Lower limb malignant neoplasm (Lower limb)
+C76.7,C767,C76.7 : Other iII-defined sites malignant neoplasm (Other ill-defined sites)
+C76.8,C768,C76.8 : Overalapping lesion of other and iII-defined sites malignant neoplasm (Overlapping lesion of other and ill-defined sites)
+C77,C77,C77 : Secondary and unspecified malignant neoplasm of lymph nodes (เนื้องอกร้ายทุติยภูมิและที่ไม่ระบุเฉพาะของต่อมน้ำเหลือง)
+C77.0,C770,"C77.0 : Lymph nodes of head, face and neck malignant neoplasm (Lymph nodes of head, face, and neck)"
+C77.1,C771,C77.1 : Intrathoracic lymph nodes malignant neoplasm (Intrathoracic lymph nodes)
+C77.2,C772,C77.2 : Intra-abdominal lymph nodes malignant neoplasm (Intra-abdominal lymph nodes)
+C77.3,C773,C77.3 : Axillary and upper limb lymph nodes malignant neoplasm (Axillary and upper limb lymph nodes)
+C77.4,C774,C77.4 : Inguinal and lower limb lymph nodes
+C77.5,C775,C77.5 : Intrapelvic lymph nodes malignant neoplasm (Intrapelvic lymph nodes)
+C77.8,C778,C77.8 : Lymph nodes of multiple regions malignant neoplasm (Lymph nodes of multiple regions)
+C77.9,C779,"C77.9 : Lymph nodes malignant neoplasm, unspecified (Lymph node, unspecified)"
+C78,C78,C78 : Secondary malignant neoplasm of respiratory and digestive organs (เนื้องอกร้ายทุติยภูมิของอวัยวะในระบบหายใจและระบบย่อยอาหาร)
+C78.0,C780,C78.0 : Secondary malignant neoplasm of lung
+C78.1,C781,C78.1 : Secondary malignant neoplasm of mediastinum
+C78.2,C782,C78.2 : Secondary malignant neoplasm of pleura
+C78.3,C783,C78.3 : Secondary malignant neoplasm of other and unspecified respiratory organs
+C78.4,C784,C78.4 : Secondary malignant neoplasm of small intestine
+C78.5,C785,C78.5 : Secondary malignant neoplasm of large intestine and rectum
+C78.6,C786,C78.6 : Secondary malignant neoplasm of retroperitoneum and peritoneum
+C78.7,C787,C78.7 : Secondary malignant neoplasm of liver
+C78.8,C788,C78.8 : Secondary malignant neoplasm of other and unspecified digestive organs
+C79,C79,C79 : Secondary malignant neoplasm of other sites (เนื้องอกร้ายทุติยภูมิของตำแหน่งอื่นๆ)
+C79.0,C790,C79.0 : Secondary malignant neoplasm of kidney and renal pelvis
+C79.1,C791,C79.1 : Secondary malignant neoplasm of bladder and other and unspecified urinary organs
+C79.2,C792,C79.2 : Secondary malignant neoplasm of skin
+C79.3,C793,C79.3 : Secondary malignant neoplasm of brain and cerebral meninges
+C79.4,C794,C79.4 : Secondary malignant neoplasm of other and unspecified parts of nervous system
+C79.5,C795,C79.5 : Secondary malignant neoplasm of of bone and bone marrow (Secondary malignant neoplasm of bone and bone marrow)
+C79.6,C796,C79.6 : Secondary malignant neoplasm of ovary
+C79.7,C797,C79.7 : Secondary malignant neoplasm of adrenal gland
+C79.8,C798,C79.8 : Secondary malignant neoplasm of other specified sites
+C79.9,C799,"C79.9 : Secondary malignant neoplasm, unspecified site"
+C80,C80,C80 : Malignant neoplasm without specification of site (เนื้องอกร้ายทุติยภูมิที่มิได้ระบุตำแหน่ง)
+C80.0,C800,"C80.0 : Malignant neoplasm primary site unknown, so stated (NULL)"
+C80.9,C809,"C80.9 : Malignant neoplasm, primary site unspecified"
+C81,C81,C81 : Hodgkin's disease (โรคฮอดกินส์)
+C81.0,C810,C81.0 : Lymphocytic predominance Hodgkin's disease (Lymphocytic predominance)
+C81.1,C811,C81.1 : Nodular sclerosis Hodgkin's disease (Nodular sclerosis)
+C81.2,C812,C81.2 : Mixed cellularity Hodgkin's disease (Mixed cellularity)
+C81.3,C813,C81.3 : Lymphocytic depletion Hodgkin's disease (Lymphocytic depletion)
+C81.4,C814,C81.4 : Lymphocyte-rich classical Hodgkin lymphoma
+C81.7,C817,C81.7 : Other Hodgkin's disease
+C81.9,C819,"C81.9 : Hodgkin's disease, unspecified"
+C82,C82,C82 : Follicular [nodular] non-Hodgkin's lymphoma (เนื้องอกร้ายลิมโฟมาชนิดโฟลิคิวล่า (โนดูล่า) ที่ไม่ใช่โรคฮอดกินส์)
+C82.0,C820,"C82.0 : Small cleaved cell, follicular"
+C82.1,C821,"C82.1 : Mixed small cleaved and large cell, follicular"
+C82.2,C822,"C82.2 : Large cell, follicular non-Hodgkin's lymphoma (Large cell, follicular)"
+C82.3,C823,C82.3 : Follicular lymphoma grade IIIa
+C82.4,C824,C82.4 : Follicular lymphoma grade IIIb
+C82.5,C825,C82.5 : Diffuse follicle centre lymphoma
+C82.6,C826,C82.6 : Cutaneous follicle centre lymphoma
+C82.7,C827,C82.7 : Other types  of follicular non-Hodgkin's lymphoma (Other types of follicular non-Hodgkin's lymphoma)
+C82.9,C829,"C82.9 : Follicular non-Hodgkin's lymphoma, unspecified"
+C83,C83,C83 : Diffuse non-Hodgkin's lymphoma (เนื้องอกร้ายลิมโฟมา ชนิดกระจายที่ไม่ใช่โรคฮอดกินส์)
+C83.0,C830,C83.0 : Small cell (diffuse) non-Hodgkin's lymphoma (Small cell (diffuse))
+C83.1,C831,C83.1 : Small cleved cell (diffuse) non-Hodgkin's lymphoma (Small cleaved cell (diffuse))
+C83.2,C832,C83.2 : Mixed small and large cell (diffuse) non-Hodgkin's lymphoma (Mixed small and large cell (diffuse))
+C83.3,C833,C83.3 : Large cell (diffuse) non-Hodgkin's lymphoma (Large cell (diffuse))
+C83.4,C834,C83.4 : Immunoblastic (diffuse) non-Hodgkin's lymphoma (Immunoblastic (diffuse))
+C83.5,C835,C83.5 : Lymphoblastic (diffuse) non-Hodgkin's lymphoma (Lymphoblastic (diffuse))
+C83.6,C836,C83.6 : Undifferentiated (diffuse) non-Hodgkin's lymphoma (Undifferentiated (diffuse))
+C83.7,C837,C83.7 : Burkitt's tumour (Burkitt's tumor)
+C83.8,C838,C83.8 : Other types of diffuse non-Hodgkin's lymphoma
+C83.9,C839,"C83.9 : Diffuse non-Hodgkin's lymphoma, unspecified"
+C84,C84,C84 : Peripheral and cutaneous T-cell lymphomas (เพอริเฟอรัล และคูเตเนียส ที-เซลล์ ลิมโฟมา)
+C84.0,C840,C84.0 : Mycosis fungoides
+C84.1,C841,C84.1 : Sezary's disiase (S?zary's disease)
+C84.2,C842,C84.2 : T-zone lymphoma
+C84.3,C843,C84.3 : Lymphoepithelioid lymphoma
+C84.4,C844,C84.4 : Peripheral T-cell lymphoma
+C84.5,C845,C84.5 : T-cell lymphomas other and unspecified (Other and unspecified T-cell lymphomas)
+C84.6,C846,"C84.6 : Anaplastic large cell lymphoma, ALK-positive"
+C84.7,C847,"C84.7 : Anaplastic large cell lymphoma, ALK-negative"
+C84.8,C848,C84.8 : Cutaneous T-cell lymphoma (NULL)
+C84.9,C849,"C84.9 : Mature T/NK-cell lymphoma, unspecified"
+C85,C85,C85 : Other and unspecified types of non-Hodgkin's lymphoma (เนื้องอกร้ายลิมโฟมาอื่นและที่ไม่ระบุ ที่ไม่ใช่โรคฮอดกินส์)
+C85.0,C850,C85.0 : Lymphosarcoma
+C85.1,C851,"C85.1 : B-cell oymphoma, unspecified (B-cell lymphoma, unspecified)"
+C85.2,C852,C85.2 : Mediastinal (thymic) large B-cell lymphoma
+C85.7,C857,C85.7 : Other specified types of non-Hodgkin's lymphoma
+C85.9,C859,"C85.9 : Non-Hodgkin's lymphoma, unspecified type"
+C86,C86,C86 : Other specified types of T/NK-cell lymphoma
+C86.0,C860,"C86.0 : Extranodal NK/T cell lymphoma, nasal types"
+C86.1,C861,C86.1 : Hepatosplenic T-cell lymphoma
+C86.2,C862,C86.2 : Enteropathy-type (interstitial) T-cell lymphoma
+C86.3,C863,C86.3 : Subcutaneous panniculitis-like T-cell lymphoma
+C86.4,C864,C86.4 : Blastic NK-cell lymphoma
+C86.5,C865,C86.5 : Angioimmunoblastic T-cell lymphoma
+C86.6,C866,C86.6 : Primary cutaneous CD30-positive T-cell proliferations
+C88,C88,C88 : Malignant immunoproliferative diseases (เนื้องอกร้ายอิมมูโน โพรลิเฟอร์เรทีฟ)
+C88.0,C880,C88.0 : Waldenstrom's macroglobulinaemia (Waldenstr?m's macroglobulinemia)
+C88.1,C881,C88.1 : Alpha heavy chain disease
+C88.2,C882,C88.2 : Gamma heavy chain disease
+C88.3,C883,C88.3 : Immunoproliferative small intestinal disease
+C88.4,C884,C88.4 : Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue [MALT-lymphoma]
+C88.7,C887,C88.7 : Other malignant immunoproliferative diseases
+C88.9,C889,"C88.9 : Malignant immunoproliferative disease, unspecified"
+C90,C90,C90 : Multiple myeloma and malignant plasma cell neoplasms (เนื้องอกร้ายมัลติเปิลมัยอีโลมาและเนื้องอกชนิดร้ายของพลาสมาเซลล์)
+C90.0,C900,C90.0 : Multiple myeloma
+C90.1,C901,C90.1 : Plasma cell leukaemia (Plasma cell leukemia)
+C90.2,C902,"C90.2 : Plasmacytoma, extramedullary"
+C90.3,C903,C90.3 : Solitary plasmacytoma
+C91,C91,C91 : Lymphoid leukaemia (ลิมฟอยด์ ลิวคีเมีย)
+C91.0,C910,C91.0 : Acute lymphoblastic leukaemia (Acute lymphoblastic leukemia)
+C91.1,C911,C91.1 : Chronic lymphocytic leukaemia (Chronic lymphocytic leukemia)
+C91.2,C912,C91.2 : Subacute lymphocytic leukaemia (Subacute lymphocytic leukemia)
+C91.3,C913,C91.3 : Prolymphocytic leukaemia (Prolymphocytic leukemia)
+C91.4,C914,C91.4 : Hairy-cell leukaemia (Hairy-cell leukemia)
+C91.5,C915,C91.5 : Adult T-cell leukaemia (Adult T-cell leukemia)
+C91.6,C916,C91.6 : Prolymphocytic leukaemia of T-cell type
+C91.7,C917,C91.7 : Other lymphoid leukaemia (Other lymphoid leukemia)
+C91.8,C918,"C91.8 : Mature B-cell leukaemia, Burkitt-type"
+C91.9,C919,"C91.9 : Lymphoid leukaemia, unspecified (Lymphoid leukemia, unspecified)"
+C92,C92,C92 : Myploid leukaemia (ไมอีลอยด์ ลิวคีเมีย)
+C92.0,C920,C92.0 : Acute myeloid leukaemia (Acute myeloid leukemia)
+C92.1,C921,C92.1 : Chronic myeloid leukaemia (Chronic myeloid leukemia)
+C92.2,C922,C92.2 : Subacute myeloid leukaemia (Subacute myeloid leukemia)
+C92.3,C923,C92.3 : Myeloid sarcoma
+C92.4,C924,C92.4 : Acute promyelocytic leukaemia (Acute promyelocytic leukemia)
+C92.5,C925,C92.5 : Acute myelomonocytic leukaemia (Acute myelomonocytic leukemia)
+C92.6,C926,C92.6 : Acute myeloid leukaemia with 11q23-abnormality
+C92.7,C927,C92.7 : Other myeloid leukaemia (Other myeloid leukemia)
+C92.8,C928,C92.8 : Acute myeloid leukaemia with multilineage dysplasia
+C92.9,C929,"C92.9 : Myeloid leukaemia, unspecified (Myeloid leukemia, unspecified)"
+C93,C93,C93 : Monocytic leukaemia (โมโนไซติก ลิวคีเมีย)
+C93.0,C930,C93.0 : Acute monocytic leukaemia (Acute monocytic leukemia)
+C93.1,C931,C93.1 : Chronic monocytic leukaemia (Chronic monocytic leukemia)
+C93.2,C932,C93.2 : Subacute monocytic leukemia
+C93.3,C933,C93.3 : Juvenile myelomonocytic leukaemia
+C93.7,C937,C93.7 : Other monocytic leukaemia (Other monocytic leukemia)
+C93.9,C939,"C93.9 : Monocytic leukarmia, unspecified (Monocytic leukemia, unspecified)"
+C94,C94,C94 : Other leukaemia  of specified cell type (ลิวคีเมียชนิดอื่น ที่ระบุชนิดเซลล์เฉพาะ)
+C94.0,C940,C94.0 : Acute erythraemia and erythroleukaemia (Acute erythremia and erythroleukemia)
+C94.1,C941,C94.1 : Chronic erythraemia (Chronic erythremia)
+C94.2,C942,C94.2 : Acute megakaryoblastic leukaemia (Acute megakaryoblastic leukemia)
+C94.3,C943,C94.3 : Mast cell leukaemia (Mast cell leukemia)
+C94.4,C944,C94.4 : Acute panmyelosis
+C94.5,C945,C94.5 : Acute myelofibrosis
+C94.6,C946,"C94.6 : Myelodysplastic and myeloproliferative disease, not elsewhere classified"
+C94.7,C947,C94.7 : Other specified leukaemias (Other specified leukemias)
+C95,C95,C95 : Leukaemia of unspecified cell type (ลิวคีเมียที่ไม่ระบุรายละเอียดชนิดเซลล์)
+C95.0,C950,C95.0 : Acute leukaemia of unspecified cell type (Acute leukemia of unspecified cell type)
+C95.1,C951,C95.1 : Chronic leukaemia of unspecified cell type (Chronic leukemia of unspecified cell type)
+C95.2,C952,C95.2 : Subacute leukaemia unspecified cell type (Subacute leukemia of unspecified cell type)
+C95.7,C957,C95.7 : Other  leukaemia unspecified cell type (Other leukemia of unspecified cell type)
+C95.9,C959,"C95.9 : Leukaemia, unspecirfied (Leukemia, unspecified)"
+C96,C96,"C96 : Other and unspcified malignant neoplasms of lymphoid, haematopoietic and related tissue (เนื้องอกร้ายอื่นๆ และที่ไม่ได้ระบุรายละเอียดเฉพาะของระบบน้ำเหลือง ระบบสร้างเม็ดเลือดและเนื้อเยื่อที่เกี่ยวข้อง)"
+C96.0,C960,C96.0 : Letterer-Siwe disease
+C96.1,C961,C96.1 : Malignant histiocytosis
+C96.2,C962,C96.2 : Malignant mast cell tumour (Malignant mast cell tumor)
+C96.3,C963,C96.3 : True histiocytic lymphoma
+C96.4,C964,C96.4 : Sarcoma of dendritic cells (accessory cells)
+C96.5,C965,C96.5 : Multifocal and unisystemic Langerhans-cell histiocytosis
+C96.6,C966,C96.6 : Unifocal Langerhans-cell histiocytosis
+C96.7,C967,"C96.7 : Other specified malignant neoplasms of lymphoid, haematopoietic and  related tissue (Other specified malignant neoplasms of lymphoid, hematopoietic, and related tissue)"
+C96.8,C968,C96.8 : Histiocytic sarcoma
+C96.9,C969,"C96.9 : Malignant neoplasm of lymphoid, haematopoietic and  related tissue, unspecified (Malignant neoplasms of lymphoid, hematopoietic, and related tissue, unspecified)"
+C97,C97,C97 : Malignant neoplasms of independent (primary) multiple sites (เนื้องอกร้ายที่มีจุดกำเนิดหลายแห่ง (ปฐมภูมิ) อิสระต่อกัน)
+D21,D211,"D21.1 Connective and other soft tissue of upper limb, including shoulder (เนื้องอกไม่ร้ายของเนื้อเยื่อเกี่ยวพัน และเนื้อเยื่ออ่อนอื่นของแขน รวมไหล)"
+D37,D37,D37 : Neoplasm of uncertain or unknown behaviour of oral cavity and digestive organs (เนื้องอกของช่องปากและอวัยวะของระบบย่อยอาหารที่ไม่ทราบแน่นอนหรือไม่ทราบลักษณะพฤติกรรม หรือลักษณะพฤติกรรมไม่แน่นอน)
+D37.0,D370,"D37.0 : Lip, oral cavity and pharynx neoplasm (Lip, oral cavity, and pharynx)"
+D37.1,D371,D37.1 : Stomach neoplasm (Stomach)
+D37.2,D372,D37.2 : Small intestine neoplasm (Small intestine)
+D37.3,D373,D37.3 : Appendix neoplasm (Appendix)
+D37.4,D374,D37.4 : Colon neoplasm (Colon)
+D37.5,D375,D37.5 : Rectum neoplasm (Rectum)
+D37.6,D376,"D37.6 : Liver, gallbladder and bile ducts neoplasm (Liver, gallbladder, and bile ducts)"
+D37.7,D377,D37.7 : Other digestive organs neoplasm (Other digestive organs)
+D37.9,D379,"D37.9 : Digestive organ neoplasm, unspecified (Digestive organ, unspecified)"
+D38,D38,D38 : Neoplasm of uncertain or unknown behaviour of middle ear and respiratory and intrathoracic organs (เนื้องอกของช่องหูส่วนกลาง อวัยวะเกี่ยวกับการหายใจและในช่องอกที่ไม่ทราบลักษณะพฤติกรรม หรือลักษณะพฤติกรรมไม่แน่นอน)
+D38.0,D380,D38.0 : Larynx neoplasm (Larynx)
+D38.1,D381,"D38.1 : Trachea, bronchus and lung neoplasm (Trachea, bronchus, and lung)"
+D38.2,D382,D38.2 : Pleura neoplasm (Pleura)
+D38.3,D383,D38.3 : Mediastinum neoplasm (Mediastinum)
+D38.4,D384,D38.4 : Thymus neoplasm (Thymus)
+D38.5,D385,D38.5 : Other respiratory organs neoplasm (Other respiratory organs)
+D38.6,D386,"D38.6 : Respiratory organ neoplasm, unspecified (Respiratory organ, unspecified)"
+D39,D39,D39 : Neoplasm of uncertain or unknow behaviour of female genital organs (เนื้องอกของอวัยวะสืบพันธุ์หญิงที่ไม่ทราบลักษณะพฤติกรรม หรือลักษณะพฤติกรรมไม่แน่นอน)
+D39.0,D390,D39.0 : Uterus neoplasm (Uterus)
+D39.1,D391,D39.1 : Ovary neoplasm (Ovary)
+D39.2,D392,D39.2 : Placenta neoplasm (Placenta)
+D39.7,D397,D39.7 : Other female genital organs neoplasm (Other female genital organs)
+D39.9,D399,"D39.9 : Female genital organ neoplasm, unspecified (Female genital organ, unspecified)"
+D40,D40,D40 : Neoplasm of uncertain or unknow behaviour of male genital organs (เนื้องอกอวัยวะสืบพันธุ์ชาย ที่ไม่ทราบลักษณะพฤติกรรม หรือลักษณะพฤติกรรมไม่แน่นอน)
+D40.0,D400,D40.0 : Prostate neoplasm (Prostate)
+D40.1,D401,D40.1 : Testis neoplasm (Testis)
+D40.7,D407,D40.7 : Other male genital organs neoplasm (Other male genital organs)
+D40.9,D409,"D40.9 : Male genital organ neoplasm, unspecified (Male genital organ, unspecified)"
+D41,D41,D41 : Neoplasm of uncertain or unknown behaviour of urinary organs (เนื้องอกไม่ร้ายของอวัยวะขับถ่ายปัสสาวะ ที่ไม่ทราบลักษณะพฤติกรรม หรือลักษณะพฤติกรรมไม่แน่นอน)
+D41.0,D410,D41.0 : Kidney neoplasm (Kidney)
+D41.1,D411,D41.1 : Renal pelvis neoplasm (Renal pelvis)
+D41.2,D412,D41.2 : Ureter neoplasm (Ureter)
+D41.3,D413,D41.3 : Urethra neoplasm (Urethra)
+D41.4,D414,D41.4 : Bladder neoplasm (Bladder)
+D41.7,D417,D41.7 : Other urinary organs neoplasm (Other urinary organs)
+D41.9,D419,"D41.9 : Urinary organ neoplasm, unspecified (Urinary organ, unspecified)"
+D42,D42,D42 : Neoplasm of uncertain or unknown behaviour of meninges (เนื้องอกของเยื่อหุ้มสมองที่ไม่ทราบลักษณะพฤติกรรม หรือลักษณะพฤติกรรมไม่แน่นอน)
+D42.0,D420,D42.0 : Cerebral meninges neoplasm (Cerebral meninges)
+D42.1,D421,D42.1 : Spinal meninges neoplasm (Spinal meninges)
+D42.9,D429,"D42.9 : Meninges neoplasm unspecified (Meninges, unspecified)"
+D43,D43,D43 : Neoplasm of uncertain or unknown behaviour of brain and central nervous system (เนื้องอกของสมองและระบบประสาทส่วนกลางที่ไม่ทราบลักษณะพฤติกรรม หรือลักษณะพฤติกรรมไม่แน่นอน)
+D43.0,D430,"D43.0 : Brain neoplasm supatentorial (Brain, supratentorial)"
+D43.1,D431,"D43.1 : Brain neoplasm, infratentorial (Brain, infratentorial)"
+D43.2,D432,"D43.2 : Brain neoplasm, unspecified (Brain, unspecified)"
+D43.3,D433,D43.3 : Cranial nerves neoplasm (Cranial nerves)
+D43.4,D434,D43.4 : Spinal cord neoplasm (Spinal cord)
+D43.7,D437,D43.7 : Other parts of central nervous system neoplasm (Other parts of central nervous system)
+D43.9,D439,"D43.9 : Central nervous system neoplasm,unspecified (Central nervous system, unspecified)"
+D44,D44,D44 : Neoplasm of uncertain or unknown behaviour of endocrine glands (เนื้องอกของต่อมไร้ท่อที่ไม่ทราบลักษณะพฤติกรรม หรือลักษณะพฤติกรรมไม่แน่นอน)
+D44.0,D440,D44.0 : Thyroid gland neoplasm (Thyroid gland)
+D44.1,D441,D44.1 : Adrenal gland neoplasm (Adrenal gland)
+D44.2,D442,D44.2 : Parathyroid gland neoplasm (Parathyroid gland)
+D44.3,D443,D44.3 : Pituitary  gland neoplasm (Pituitary gland)
+D44.4,D444,D44.4 : Craniopharyngeal duct neoplasm (Craniopharyngeal duct)
+D44.5,D445,D44.5 : Pineal  gland neoplasm (Pineal gland)
+D44.6,D446,D44.6 : Carotid body neoplasm (Carotid body)
+D44.7,D447,D44.7 : Aortic body and other paraganglia neoplasm (Aortic body and other paraganglia)
+D44.8,D448,D44.8 : Pluriglandular involvement neoplasm (Pluriglandular involvement)
+D44.9,D449,"D44.9 : Endocrine gland neoplasm, unspecified (Endocrine gland, unspecified)"
+D45,D45,D45 : Polycythaemia vera (โพลีไซทีเมีย วีร่า)
+D46,D46,D46 : Myelodysplastic syndromes (กลุ่มอาการมัยเอโลดิสพลาสติก)
+D46.0,D460,"D46.0 : Refractory anaemia without sideroblasts, so stated (Refractory anemia without sideroblasts, so stated)"
+D46.1,D461,D46.1 : Refractory anaemia with sideroblasts (Refractory anemia with sideroblasts)
+D46.2,D462,D46.2 : Refractory anaemia with excess of blasts (Refractory anemia with excess of blasts)
+D46.3,D463,D46.3 : Refractory anaemia with excess of blasts with transformation (Refractory anemia with excess of blasts with transformation)
+D46.4,D464,"D46.4 : Refractory anaemia, unspecified (Refractory anemia, unspecified)"
+D46.5,D465,D46.5 : Refractory anaemia with multi-lineage dysplasia
+D46.6,D466,D46.6 : Myelodysplastic syndrome with isolated del(5q) chromosomal abnormality
+D46.7,D467,D46.7 : Other myelodysplastic syndromes
+D46.9,D469,"D46.9 : Myelodysplastic syndrome, unspecified"
+D47,D47,"D47 : Other neoplasms of uncertain or unknow behaviour of lymphoid, haematopoietic and related tissue (เนื้องอกอื่น เนื้อเยื่อ น้ำเหลือง เนื้อเยื่อสร้างเม็ดเลือดและเนื้อเยื่อที่เกี่ยวข้องที่ไม่ทราบลักษณะพฤติกรรม หรือลักษณะพฤติกรรมไม่แน่นอน)"
+D47.0,D470,D47.0 : Histiocytic and mast cell tumours of uncertain and unknow behaviour (Histiocytic and mast cell tumors of uncertain and unknown behavior)
+D47.1,D471,D47.1 : Chronic myeloproliferative disease
+D47.2,D472,D47.2 : Monoclonal gammopathy
+D47.3,D473,D47.3 : Essential (haemorrhagic) thrombocythaemia (Essential (hemorrhagic) thrombocythemia)
+D47.4,D474,D47.4 : Osteomyelofibrosis
+D47.5,D475,D47.5 : Chronic eosinophilic leukaemia [hypereosinophilic syndrome]
+D47.7,D477,"D47.7 : Other specified neoplasms of uncertain or unknown behaviour of lymphoid, haematopoie (Other specified neoplasms of uncertain or unknown behavior of lymphoid, hematopoietic, and related tissue)"
+D47.9,D479,"D47.9 : Neoplasm of uncertain or unknow behaviour of lymphoid, haematopoietic and realted ti (Neoplasm of uncertain or unknown behavior of lymphoid, hematopoietic, and related tissue, unspecified)"
+D48,D48,D48 : Neoplasm of uncertain or unknow behaviour of other and unspecified sites (เนื้องอกที่ตำแหน่งอื่น หรือไม่ระบุตำแหน่งแน่นอน และไม่ทราบลักษณะหรือลักษณะพฤติกรรมไม่แน่นอน)
+D48.0,D480,D48.0 : Bone and articular cartilage neoplasm (Bone and articular cartilage)
+D48.1,D481,D48.1 : Connective and other soft tissue neoplasm (Connective and other soft tissue)
+D48.2,D482,D48.2 : Peripheral nerves and autonomic nervous system neoplasm (Peripheral nerves and autonomic nervous system)
+D48.3,D483,D48.3 : Retroperitoneum neoplasm (Retroperitoneum)
+D48.4,D484,D48.4 : Peritoneum neoplasm (Peritoneum)
+D48.5,D485,D48.5 : Skin neoplasm (Skin)
+D48.6,D486,D48.6 : Breast neoplasm (Breast)
+D48.7,D487,D48.7 : Other specified sites neoplasm (Other specified sites)
+D48.9,D489,"D48.9 : Neoplasm of uncertain or unknown behaviour, unspecified (Neoplasms of uncertain or unknown behavior, unspecified)"

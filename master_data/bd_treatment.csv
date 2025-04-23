@@ -1,0 +1,12 @@
+"code","name","status"
+1,Surgery,Y
+2,Radiation,Y
+3,Chemotherapy,Y
+4,Hormone,Y
+5,Immunotherapy,Y
+6,Targeted Therapy,Y
+7,Intervention,Y
+8,Concurrent RT,Y
+9,Intraoperative Radiation,Y
+10,Palliative Care,Y
+11,Other,Y
