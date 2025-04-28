@@ -5,4 +5,5 @@ To facilitate data flow to TCB , we also provided the API to recieve data from a
 - API document link :
   https://documenter.getpostman.com/view/27089148/2sAYdoG86Y
 - Master data (Reference code) : [Master data code (for mapping)](/master_data) 
-- โครงสร้าง view ที่แนะนำ ![structure](https://github.com/it-nci/TCB_API/blob/main/image/Screenshot%202025-04-27%20222109.jpg)
+- โครงสร้าง view ที่แนะนำ
+- ![structure](https://github.com/it-nci/TCB_API/blob/main/image/Screenshot%202025-04-27%20222109.jpg)
