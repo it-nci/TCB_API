@@ -5,5 +5,5 @@ as \
 cte_table2 ( column1,column2,column3,...) \
 as \
 (sql 2), \
-
+\
 main sql 
