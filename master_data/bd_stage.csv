@@ -1,0 +1,31 @@
+"code","name","stage_group_id","status"
+0,Stage 0,0,Y
+1,Stage 1,1,Y
+2,Stage 2,2,Y
+3,Stage 3,3,Y
+4,Stage 4,4,Y
+9,ไม่ระบุ,9,Y
+10,Stage 1a,1,Y
+11,Stage 1a1,1,Y
+12,Stage 1a2,1,Y
+13,Stage 1b,1,Y
+14,Stage 1b1,1,Y
+15,Stage 1b2,1,Y
+16,Stage 1c,1,Y
+17,Stage 1s,1,Y
+20,Stage 2a,2,Y
+21,Stage 2a1,2,Y
+22,Stage 2a2,2,Y
+23,Stage 2b,2,Y
+24,Stage 2c,2,Y
+30,Stage 3a,3,Y
+31,Stage 3b,3,Y
+32,Stage 3c,3,Y
+33,Stage 3c1,3,Y
+34,Stage 3c2,3,Y
+39,Locally Advanced,3,Y
+40,Stage 4a,4,Y
+41,Stage 4a1,4,Y
+42,Stage 4a2,4,Y
+43,Stage 4b,4,Y
+44,Stage 4c,4,Y
