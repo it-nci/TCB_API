@@ -7,4 +7,4 @@ To facilitate data flow to TCB , we also provided the API to recieve data from a
 - Master data (Reference code) : [Master data code (for mapping)](/master_data) 
 - โครงสร้าง view ที่แนะนำ
 - ![structure](https://github.com/it-nci/TCB_API/blob/main/image/Screenshot%202025-04-27%20222109.jpg)
-- icd9cm ที่อาจใช้ดึงข้อมูลการรักษาทั้งผ่าตด / เคมี / รังสี (icd9cm)
+- icd9cm ที่อาจใช้ดึงข้อมูลการรักษาทั้งผ่าตด / เคมี / รังสี (/icd9cm)
