@@ -4,4 +4,4 @@ TCB 2025 is the web-based cancer registry of Thailand , hosted by National cance
 To facilitate data flow to TCB , we also provided the API to recieve data from any hosptial in Thailand.
 - API document link :
   https://documenter.getpostman.com/view/27089148/2sAYdoG86Y
-- [Master data code (for mapping)](/master_data) 
+- Master data (Reference code) : [Master data code (for mapping)](/master_data) 
