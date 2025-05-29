@@ -8,7 +8,7 @@
         END AS finance_support_code,
     pcr.patient_cancer_last_visit_date AS clinic_visit,
     ((((((("substring"(p.cid::text, 1, 1) || '-'::text) || "substring"(p.cid::text, 2, 4)) || '-'::text) || "substring"(p.cid::text, 6, 5)) || '-'::text) || "substring"(p.cid::text, 11, 2)) || '-'::text) || "substring"(p.cid::text, 13, 1) AS cid,
-    p.hn,
+    o.hn,
     to_char(o.vstdate::timestamp with time zone, 'YYYYMMDD'::text) AS visit_date,
     o.vstdate,
     ''::text AS diagnosis_code,

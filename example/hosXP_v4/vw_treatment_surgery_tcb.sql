@@ -10,8 +10,6 @@ FROM (
             SUBSTRING(p.cid, 13, 1)
         ) AS cid,
 
-				p.hn,
-
         TO_CHAR(o.vstdate, 'YYYYMMDD') AS visit_date,
         '1' AS treatment_code,
         TO_CHAR(ol.request_date, 'YYYYMMDD') AS treatment_start_date,
