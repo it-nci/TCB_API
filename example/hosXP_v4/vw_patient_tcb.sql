@@ -22,10 +22,7 @@ SELECT DISTINCT
         SUBSTRING(p.cid FROM 13 FOR 1)
     ) AS cid,
     
-    CASE 
-        WHEN p.sex = 'F' THEN '2'
-        ELSE '1'
-    END AS sex_code,
+    p.sex AS sex_code,
     
     CASE 
         WHEN p.nationality IS NULL OR p.nationality = '' THEN '9'

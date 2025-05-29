@@ -12,7 +12,7 @@ SELECT DISTINCT
     TRIM(p.lname) AS last_name,
     DATE_FORMAT(p.birthday, "%Y%m%d") AS birth_date,
     CONCAT(SUBSTRING(p.cid, 1, 1), '-', SUBSTRING(p.cid, 2, 4), '-', SUBSTRING(p.cid, 6, 5), '-', SUBSTRING(p.cid, 11, 2), '-', SUBSTRING(p.cid, 13, 1)) AS cid,  
-    IF(p.sex = 'F', '2', '1') AS sex_code,
+    p.sex AS sex_code,
     (CASE 
             WHEN p.nationality = '' OR p.nationality is null THEN '9'
             WHEN p.nationality = '99' THEN '1'
