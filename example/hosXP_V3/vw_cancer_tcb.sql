@@ -1,6 +1,3 @@
-DROP VIEW vw_cancer_tcb;
-
-CREATE VIEW vw_cancer_tcb AS
 SELECT 
     DISTINCT 
     (CASE 

@@ -1,6 +1,3 @@
-DROP VIEW vw_treatment_radiation_tcb;
-
-CREATE VIEW vw_treatment_radiation_tcb AS
 SELECT * 
 FROM (
     SELECT 

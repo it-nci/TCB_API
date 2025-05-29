@@ -1,6 +1,3 @@
-DROP VIEW vw_treatment_chemo_tcb;
-
-CREATE VIEW vw_treatment_chemo_tcb AS
 SELECT * 
 FROM (
 SELECT CONCAT(SUBSTRING(p.cid, 1, 1), '-', SUBSTRING(p.cid, 2, 4), '-', SUBSTRING(p.cid, 6, 5), '-', SUBSTRING(p.cid, 11, 2), '-', SUBSTRING(p.cid, 13, 1)) AS cid, 
