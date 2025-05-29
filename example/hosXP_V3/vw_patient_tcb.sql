@@ -1,6 +1,3 @@
-DROP VIEW vw_patient_tcb;
-
-CREATE VIEW vw_patient_tcb AS
 SELECT DISTINCT
     p.hn,
     (CASE 
