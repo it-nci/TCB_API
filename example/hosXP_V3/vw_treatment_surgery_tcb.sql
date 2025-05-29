@@ -26,7 +26,7 @@ FROM
 			LEFT JOIN `operation_list` `ol` ON ( `ol`.`an` = `o`.`an` ))
 	LEFT JOIN `patient` `p` ON ( `p`.`hn` = `o`.`hn` )) 
 WHERE
-	`o`.`vstdate` BETWEEN curdate() - INTERVAL 60 DAY 
+	`o`.`vstdate` = CURDATE()
 	AND curdate() 
 	AND `od`.`diagtype` = '1' 
 	AND ucase( `od`.`icd10` ) LIKE 'C%' 

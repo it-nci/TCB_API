@@ -12,6 +12,7 @@ SELECT
     END) AS finance_support_code,
     pcr.patient_cancer_last_visit_date AS clinic_visit,
     CONCAT(SUBSTRING(p.cid, 1, 1), '-', SUBSTRING(p.cid, 2, 4), '-', SUBSTRING(p.cid, 6, 5), '-', SUBSTRING(p.cid, 11, 2), '-', SUBSTRING(p.cid, 13, 1)) AS cid, 
+    p.hn,
     DATE_FORMAT(o.vstdate, "%Y%m%d") AS visit_date,
     '' AS diagnosis_code,
     '' AS morphology,
