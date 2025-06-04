@@ -34,7 +34,7 @@ SELECT DISTINCT
     )) AS permanent_address_no, 
     p.moopart AS permanent_address_moo, 
 		CONCAT(p.chwpart, p.amppart,p.tmbpart) AS permanent_area_code,
-    IF(p.hometel = '' OR p.hometel is null, p.informtel, p.hometel) AS telephone_1,
+    IF(p.mobile_phone_number = '' OR p.mobile_phone_number is null, p.informtel, p.mobile_phone_number) AS telephone_1,
     DATE(NOW()) AS send_date
 FROM patient p
 LEFT OUTER JOIN ovst o ON p.hn = o.hn

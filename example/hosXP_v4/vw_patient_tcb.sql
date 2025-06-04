@@ -57,8 +57,8 @@ SELECT DISTINCT
     CONCAT(p.chwpart, p.amppart, p.tmbpart) AS permanent_area_code,
     
     CASE 
-        WHEN p.hometel IS NULL OR p.hometel = '' THEN p.informtel 
-        ELSE p.hometel 
+        WHEN p.mobile_phone_number IS NULL OR p.mobile_phone_number = '' THEN p.informtel 
+        ELSE p.mobile_phone_number 
     END AS telephone_1,
     
     CURRENT_DATE AS send_date
