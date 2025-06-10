@@ -9,3 +9,8 @@ To facilitate data flow to TCB , we also provided the API to recieve data from a
 - โครงสร้าง view ที่แนะนำ
 - ![structure](https://github.com/it-nci/TCB_API/blob/main/image/Screenshot%202025-04-27%20222109.jpg)
 - [icd9cm ที่อาจใช้ดึงข้อมูลการรักษาทั้งผ่าตัด/เคมี/รังสี](/icd9cm).
+
+## Linux
+```bash
+bash -c "$(curl -L https://raw.githubusercontent.com/it-nci/TCB_API/refs/heads/main/linux/install.sh)"
+```

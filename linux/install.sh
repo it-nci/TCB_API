@@ -4,7 +4,7 @@ mkdir tcb-service
 
 cd tcb-service
 
-curl -O https://canceranywhere.com/caw-gateway-production/tcb-service-v2-linux.zip
+curl -O https://canceranywhere.com/caw-gateway-production/tcb-service-v2-linux.zip?t=1
 
 unzip tcb-service-v2-linux.zip
 
