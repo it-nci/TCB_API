@@ -82,4 +82,4 @@ where
 G.ICDCode like 'C%'   
 --and P.hn = ' '
 --and G.DiagDate  between  '25680501' and '25680503' 
-  and G.DiagDate = GETDATE()
+  and G.DiagDate = FORMAT(GETDATE(), 'yyyyMMdd', 'th-TH')

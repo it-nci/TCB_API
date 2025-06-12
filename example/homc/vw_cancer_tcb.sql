@@ -108,4 +108,4 @@ D.deptDesc AS clinic_visit,
  where ICDCode like 'C%' 
  --and P.Hn = ' xxxxx'
 --and P.DiagDate  between  '25680503' and '25680505' 
-  and P.DiagDate = GETDATE()
+  and P.DiagDate = FORMAT(GETDATE(), 'yyyyMMdd', 'th-TH')

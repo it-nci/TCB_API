@@ -58,4 +58,4 @@ D.deptDesc AS clinic_visit,
 --and P.DiagDate  between  '25680503' and '25680505' 
   --and P.DiagDate > '25680101' 
 
-  and VisitDate = GETDATE()
+  and VisitDate = FORMAT(GETDATE(), 'yyyyMMdd', 'th-TH')
