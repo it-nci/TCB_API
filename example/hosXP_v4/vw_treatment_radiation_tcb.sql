@@ -11,7 +11,7 @@ FROM (
 
         TO_CHAR(o.vstdate, 'YYYYMMDD') AS visit_date,
         '2' AS treatment_code,
-        TO_CHAR(pcr.patient_cancer_first_diag_cancer_date, 'YYYYMMDD') AS treatment_start_date,
+        TO_CHAR(o.vstdate, 'YYYYMMDD') AS treatment_start_date,
 
         (
             SELECT UPPER(REPLACE(od2.icd10, '.', ''))
