@@ -41,8 +41,10 @@ LEFT OUTER JOIN ovst o ON p.hn = o.hn
 WHERE 
     p.birthday IS NOT NULL 
     AND o.vstdate = CURDATE()
+-- 		AND o.vstdate = CURDATE() - INTERVAL 2 DAY
     AND length(TRIM(p.cid)) = 13
     AND o.vn IN (
         select distinct o.vn from ovstdiag 
 				where o.vn = vn and vstdate = CURDATE()
+-- 				where o.vn = vn and vstdate = CURDATE() - INTERVAL 2 DAY
 				and diagtype = '1' and upper(icd10) like 'C%');
