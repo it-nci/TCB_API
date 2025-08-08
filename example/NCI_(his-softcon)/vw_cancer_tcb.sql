@@ -95,6 +95,7 @@ SELECT DISTINCT
 	FORMAT(cv.DocDT, 'yyyyMMdd') AS 'visit_date',  
 	-- dx_date.first_cancer_visit,
 	-- dx_date.last_cancer_visit,
+	NULL AS 'clinic_visit',
 	cv.ICD10 AS 'icd10_code',
 		CASE 
         WHEN M.MCKey = '12' THEN '1'
