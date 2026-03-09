@@ -21,5 +21,7 @@ bash -c "$(curl -L https://raw.githubusercontent.com/it-nci/TCB_API/refs/heads/m
 ```
 
 ## Window server
-''' https://canceranywhere.com/caw-gateway-production/tcb-service-v2.zip
+installation guiide 
+https://docs.google.com/document/d/1AHH_AgKMKLVgjF65qNnNqtDREtTbTKGO/edit
+https://canceranywhere.com/caw-gateway-production/tcb-service-v2.zip
 ...
