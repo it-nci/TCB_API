@@ -10,6 +10,8 @@ To facilitate data flow to TCB , we also provided the API to recieve data from a
 - ![structure](https://github.com/it-nci/TCB_API/blob/main/image/Screenshot%202025-04-27%20222109.jpg)
 - [icd9cm ที่อาจใช้ดึงข้อมูลการรักษาทั้งผ่าตัด/เคมี/รังสี](/icd9cm).
 
+# TCB API service installation guide 
+https://docs.google.com/document/d/1AHH_AgKMKLVgjF65qNnNqtDREtTbTKGO/edit
 ## Linux
 ```bash
 bash -c "$(curl -L https://raw.githubusercontent.com/it-nci/TCB_API/refs/heads/main/linux/install.sh)"
@@ -21,7 +23,5 @@ bash -c "$(curl -L https://raw.githubusercontent.com/it-nci/TCB_API/refs/heads/m
 ```
 
 ## Window server
-installation guide 
-https://docs.google.com/document/d/1AHH_AgKMKLVgjF65qNnNqtDREtTbTKGO/edit
 https://canceranywhere.com/caw-gateway-production/tcb-service-v2.zip
-...
+
