@@ -14,3 +14,8 @@ To facilitate data flow to TCB , we also provided the API to recieve data from a
 ```bash
 bash -c "$(curl -L https://raw.githubusercontent.com/it-nci/TCB_API/refs/heads/main/linux/install.sh)"
 ```
+
+## Linux (Ubuntu)
+```bash
+bash -c "$(curl -L https://raw.githubusercontent.com/it-nci/TCB_API/refs/heads/main/linux/install_ubuntu.sh)"
+```
