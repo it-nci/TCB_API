@@ -19,3 +19,7 @@ bash -c "$(curl -L https://raw.githubusercontent.com/it-nci/TCB_API/refs/heads/m
 ```bash
 bash -c "$(curl -L https://raw.githubusercontent.com/it-nci/TCB_API/refs/heads/main/linux/install_ubuntu.sh)"
 ```
+
+## Window server
+''' https://canceranywhere.com/caw-gateway-production/tcb-service-v2.zip
+...
