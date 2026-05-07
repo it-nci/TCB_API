@@ -1,4 +1,3 @@
-
 select  Distinct 
 --P.Hn,
 CASE 
@@ -26,38 +25,38 @@ END AS cid,
 D.deptDesc AS clinic_visit,
 
  (select top 1  FORMAT(DATEADD(YEAR, -543, TRY_CONVERT(DATE, P2.VisitDate, 112)), 'yyyyMMdd')
- from DIAG P2 
- where P2.Hn = P.Hn and ICDCode like 'C%' 
+ from PATDIAG P2 
+ where P2.Hn = P.Hn and ((ICDCode LIKE 'Z511') OR (ICDCode LIKE '9925') OR (ICDCode LIKE '9225') OR (ICDCode LIKE '9229'))
  order by P2.regNo desc) as visit_date 
  ,(select top 1  FORMAT(DATEADD(YEAR, -543, TRY_CONVERT(DATE, P2.VisitDate, 112)), 'yyyyMMdd')
- from DIAG P2 
- where P2.Hn = P.Hn and ICDCode like 'C%' 
+ from PATDIAG P2 
+ where P2.Hn = P.Hn and ((ICDCode LIKE 'Z511') OR (ICDCode LIKE '9925') OR (ICDCode LIKE '9225') OR (ICDCode LIKE '9229')) 
  order by P2.regNo desc) as treatment_start_date
 
 
  ,'2' AS treatment_code
  
-  ,(select top 1 ICDCode from DIAG where Hn = P.Hn  and ICDCode like 'C%') as icd10_code
+  ,(select top 1 ICDCode from PATDIAG where Hn = P.Hn  and ((ICDCode LIKE 'Z511') OR (ICDCode LIKE '9925') OR (ICDCode LIKE '9225') OR (ICDCode LIKE '9229'))) as icd10_code
 
 ,DATEADD(DAY, 0, GETDATE()) AS send_date
 
 
- from DIAG P 
- INNER JOIN DEP AS D (nolock) ON (P.deptCode = D.deptCode) 
+ from PATDIAG P 
+ INNER JOIN DEPT AS D (nolock) ON (P.deptCode = D.deptCode) 
  INNER JOIN PATIENT AS PP (nolock) ON (P.Hn = PP.hn)
   INNER JOIN Nation AS N (nolock) ON (PP.nation = N.NATCODE)
-  INNER JOIN PaS AS S (nolock) ON S.hn = P.Hn 
-  RIGHT  join Bil   bh (nolock) on P.Hn = bh.hn and  bh.regNo  = (select top 1 P2.regNo 
- from DIAG P2 
- where P2.Hn = P.Hn and ICDCode like 'C%'
+  INNER JOIN PatSS AS S (nolock) ON S.hn = P.Hn 
+  RIGHT  join Bill_h   bh (nolock) on P.Hn = bh.hn and  bh.regNo  = (select top 1 P2.regNo 
+ from PATDIAG P2 
+ where P2.Hn = P.Hn and ((ICDCode LIKE 'Z511') OR (ICDCode LIKE '9925') OR (ICDCode LIKE '9225') OR (ICDCode LIKE '9229'))
  order by P2.regNo desc)
-   left join Bid    b (nolock) on P.Hn=b.hn and P.regNo =b.regist_flag 
+   left join Bill_d    b (nolock) on P.Hn=b.hn and P.regNo =b.regist_flag 
 
- where ICDCode like 'C%' 
+ where ((P.ICDCode LIKE 'Z511') OR (P.ICDCode LIKE '9925') OR (P.ICDCode LIKE '9225') OR (P.ICDCode LIKE '9229'))
  --and P.Hn = ''
---and P.DiagDate  between  '25680503' and '25680505' 
+--and P.DiagDate  between  '25680616' and '25680618' 
   --and P.DiagDate > '25680101' 
 
-  and VisitDate = FORMAT(GETDATE(), 'yyyyMMdd', 'th-TH')
-
- 
+  and VisitDate = (CONVERT(varchar, DATEPART(YEAR, DATEADD(DAY, -1, GETDATE())) + 543) +
+    RIGHT('0' + CONVERT(varchar, DATEPART(MONTH, DATEADD(DAY, -1, GETDATE()))), 2) +
+    RIGHT('0' + CONVERT(varchar, DATEPART(DAY, DATEADD(DAY, -1, GETDATE()))), 2))
